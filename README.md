@@ -12,3 +12,5 @@ With SQL, I unraveled the entire plot and brought the murderer and the mastermin
 Case closed!
 
 Tools used: JOIN, GROUP BY, LIKE, CTEs, logical filters, and classic detective intuition — all in SQL!
+
+Credits: https://github.com/NUKnightLab/sql-mysteries
